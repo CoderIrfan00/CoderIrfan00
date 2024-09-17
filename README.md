@@ -6,11 +6,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=CoderIrfann&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=CoderIrfann&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="CoderIrfann's GitHub Stats" width="48%" />
+  <a href="https://github-readme-stats.vercel.app/api?username=CoderIrfan00&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=CoderIrfan00&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="CoderIrfann's GitHub Stats" width="48%" />
   </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=CoderIrfann&theme=github_dark&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderIrfann&theme=github_dark&hide_border=true" alt="CoderIrfann GitHub Streak" width="48%" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=CoderIrfan00&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderIrfan00&theme=github_dark&hide_border=true" alt="CoderIrfann GitHub Streak" width="48%" />
   </a>
 </div>
 
@@ -47,11 +47,11 @@
 ### 🔝 Most Used Languages & Trophies
 
 <div align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderIrfann&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderIrfann&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact" alt="Most Used Languages" width="48%" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderIrfan00&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderIrfan00&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact" alt="Most Used Languages" width="48%" />
   </a>
-  <a href="https://github-profile-trophy.vercel.app/?username=CoderIrfann&row=3&column=4&no-bg=true">
-    <img src="https://github-profile-trophy.vercel.app/?username=CoderIrfann&row=3&column=4&no-bg=true" alt="GitHub Trophies" width="48%" />
+  <a href="https://github-profile-trophy.vercel.app/?username=CoderIrfan00&row=3&column=4&no-bg=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=CoderIrfan00&row=3&column=4&no-bg=true" alt="GitHub Trophies" width="48%" />
   </a>
 </div>
 
@@ -69,7 +69,7 @@
   <a href="https://www.instagram.com/code_with_irfan01/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="https://github.com/CoderIrfann">
+  <a href="https://github.com/CoderIrfan00">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </div>
@@ -79,5 +79,5 @@
 ### 👥 Visitor Count
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/CoderIrfann/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/CoderIrfan00/count.svg" alt="Visitor Count" />
 </div>
